@@ -1,5 +1,5 @@
 # List-er
-Simple List Creator program
+Simple Data List Creator program
 
 This program is used to create a list of data, which have some variable part and some constant part so rather than typing same thing again and again it is better to use this program for example if you need list of roll no which is having some common part like
 
